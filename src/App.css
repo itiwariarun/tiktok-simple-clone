@@ -9,7 +9,7 @@ html {
 }
 
 .app {
-	height: 90vh;
+	height: 100vh;
 	background-color: black;
 	display: grid;
 	place-items: center;
@@ -23,7 +23,7 @@ html {
 	height: 80vh;
 	border-radius: 20px;
 	overflow: scroll;
-	width: 50.7vh;
+	width: 50.5vh;
 	scroll-snap-type: y mandatory;
 }
 
