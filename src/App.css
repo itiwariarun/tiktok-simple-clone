@@ -20,10 +20,10 @@ html {
 
 		border: 2px solid lemonchiffon;
 
-	height: 97vh;
+	height: 90vh;
 	border-radius: 20px;
 	overflow: scroll;
-	width: 51vh;
+	width: 50.7vh;
 	scroll-snap-type: y mandatory;
 }
 
